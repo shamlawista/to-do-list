@@ -1,6 +1,6 @@
-eat
+not eat
 wake up
 you already ate
 sleep
-play
 eat
+sleep again
