@@ -1,7 +1,7 @@
-not eat
-wake up
+Hi
 you already ate
 sleep
 eat
 sleep again
-new code
+eat again
+Sleep again
