@@ -1,8 +1,8 @@
 def get_todos(filepath="todo.txt"):
     """ this function will read the content of a file, and return the lines in a list"""
     with open(filepath, 'r') as file_local:
-        todos_local = file_local.readlines()
-    return todos_local
+        todos = file_local.readlines()
+    return todos
 
 
 def write_todos(list_to_write, filepath="todo.txt"):
